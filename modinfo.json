@@ -1,0 +1,15 @@
+{
+    "type": "content",
+    "modid": "tallowcandles",
+    "name": "Tallow Candles",
+    "authors": [
+        "ehm-93"
+    ],
+    "description": "Adds a recipe for candles from animal fat",
+    "version": "0.1.0",
+    "dependencies": {
+        "game": "",
+        "survival": ""
+    },
+    "website": "https://github.com/ehm-93/TallowCandle"
+}
